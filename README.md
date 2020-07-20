@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi There 👋
+
+![GitHub followers](https://img.shields.io/github/followers/dpanic?label=Follow%20%40dpanic&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/dusan_panic?style=for-the-badge)
+
+My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. OSINT and recon are my expertises. I like searching for patterns inside data. Precise in solving complex problems. Able to interpret, replicate, rewrite and upgrade exploits in order to gain speed , reliability and coverage of major application protocols.
+I create applications, packages and libraries using [Go](https://github.com/golang/go). 
+
 
 <p align="center">
   <a href="https://github.com/dpanic" class="rich-diff-level-one">
