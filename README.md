@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/dpanic?label=Follow%20%40dpanic&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dusan_panic?style=for-the-badge)
