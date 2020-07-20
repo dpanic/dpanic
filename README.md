@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dusan_panic">
-    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
-  </a>
-  &emsp;
   <a href="https://www.linkedin.com/in/du%C5%A1an-pani%C4%87-5933731b2/">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/dusan_panic">
+    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
   </a>
   &emsp;
   <a href= "https://instagram.com/dpanic2727">
