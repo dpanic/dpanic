@@ -1,9 +1,6 @@
 # Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/dpanic?label=Follow%20%40dpanic&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/dusan_panic?style=for-the-badge)
-
-My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
+My name is **DUŠAN PANIĆ**, I am a Senior Software Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
 
 <p align="center">
