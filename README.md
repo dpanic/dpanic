@@ -24,9 +24,6 @@ My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching 
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/dpanic/dpanic?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 <!--
 **dpanic/dpanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
