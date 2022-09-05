@@ -17,10 +17,6 @@ My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching 
   <a href="https://twitter.com/dusan_panic">
     <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
   </a>
-  &emsp;
-  <a href= "https://instagram.com/dpanic2727">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
