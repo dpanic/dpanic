@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
+I am a Senior Security Engineer. Interested in deep diving into data for identifying patterns. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
 
 ![Metrics](/github-metrics.svg)
