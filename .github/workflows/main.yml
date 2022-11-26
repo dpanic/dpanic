@@ -25,7 +25,7 @@ jobs:
           # Options
           user: dpanic
           template: classic
-          base: header, metadata
+          base: header, repositories, metadata
           config_timezone: Europe/Belgrade
           plugin_achievements: yes
           plugin_achievements_display: compact
