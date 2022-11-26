@@ -2,6 +2,7 @@
 
 My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
+![Metrics](/github-metrics.svg)
 
 <p align="center">
   <a href="https://github.com/dpanic" class="rich-diff-level-one">
