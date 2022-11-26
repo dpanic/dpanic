@@ -28,7 +28,6 @@ jobs:
           template: classic
           base: header, repositories, metadata
           config_timezone: Europe/Belgrade
-          config_display: column
           # plugin_achievements: yes
           # plugin_achievements_display: detailed
           # plugin_achievements_ignored: deployer, explorer
