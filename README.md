@@ -3,9 +3,12 @@
 My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
 
+<!-- ![Metrics](/github-metrics.svg) -->
+
 <p align="center">
-    ![Metrics](/github-metrics.svg)
+  <img src="/github-metrics.sv">
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/du%C5%A1an-pani%C4%87-5933731b2/">
