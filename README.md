@@ -6,7 +6,7 @@ My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching 
 <!-- ![Metrics](/github-metrics.svg) -->
 
 <p align="center">
-  <img src="/github-metrics.sv">
+  <img src="/github-metrics.svg">
 </p>
 
 
