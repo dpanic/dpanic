@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a <b>Site Reliability Engineer</b> with background as a <b>Senior Security Engineer</b>. Interested in deep diving into data for identifying patterns. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
+I am a <b>Site Reliability Engineer</b> with background as a <b>Senior Security Engineer</b>. Interested in deep diving into data for identifying patterns. Precisely solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
 
 ![Metrics](/github-metrics.svg)
