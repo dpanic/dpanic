@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: creaktive
+          user: dpanic
           template: classic
           base: repositories, metadata
           config_timezone: Europe/Belgrade

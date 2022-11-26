@@ -2,12 +2,9 @@
 
 My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching for patterns inside data. Precise in solving complex problems. I create applications, packages and libraries using [Go](https://github.com/golang/go). 
 
-![Metrics](/github-metrics.svg)
 
 <p align="center">
-  <a href="https://github.com/dpanic" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=dpanic&title_color=333&text_color=777" alt="Dušan's Stats" >
-  </a>
+    ![Metrics](/github-metrics.svg)
 </p>
 
 <p align="center">
@@ -22,6 +19,9 @@ My name is **DUŠAN PANIĆ**, I am a Senior Security Engineer. I like searching 
   <strong>Check out my work below!</strong>
   <br><br>
 </p>
+
+
+
 <!--
 **dpanic/dpanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
