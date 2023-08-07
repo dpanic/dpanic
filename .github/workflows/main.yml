@@ -33,7 +33,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
 
-          plugin_calendar: yes
+          plugin_calendar: no
           plugin_achievements: no
 
           # repositories_skipped: dpanic/kudabezglave.com dpanic/dpanic
