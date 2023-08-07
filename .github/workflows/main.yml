@@ -29,6 +29,10 @@ jobs:
           config_timezone: Europe/Belgrade
 
 
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
           plugin_calendar: yes
           plugin_achievements: no
 
