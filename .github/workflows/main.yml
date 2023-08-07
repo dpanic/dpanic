@@ -27,15 +27,14 @@ jobs:
           template: classic
           base: header, repositories, metadata
           config_timezone: Europe/Belgrade
-          
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_ignored: deployer, explorer
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 12
 
-          # repositories_skipped: dpanic/kudabezglave.com
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_charts: yes
+
+          plugin_achievements: no
+
+          # repositories_skipped: dpanic/kudabezglave.com dpanic/dpanic
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
