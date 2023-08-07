@@ -28,6 +28,8 @@ jobs:
           base: header, repositories, metadata
           config_timezone: Europe/Belgrade
 
+
+          plugin_calendar: yes
           plugin_achievements: no
 
           # repositories_skipped: dpanic/kudabezglave.com dpanic/dpanic
