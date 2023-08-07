@@ -33,7 +33,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: no
           plugin_notable_from: organization
-          # plugin_notable_self: yes
+          plugin_notable_self: no
 
           plugin_achievements: no
 
