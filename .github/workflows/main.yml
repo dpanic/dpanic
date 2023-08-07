@@ -28,10 +28,6 @@ jobs:
           base: header, repositories, metadata
           config_timezone: Europe/Belgrade
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_charts: yes
-
           plugin_achievements: no
 
           # repositories_skipped: dpanic/kudabezglave.com dpanic/dpanic
